@@ -1,4 +1,4 @@
-ReadMe from b2
+ReadMe
 # gcp
 ==================================
 ###### List Google Account #######
